@@ -1,0 +1,10 @@
+{
+  "name": "Audio & Video Intelligence Engine",
+  "description": "AI transcription and deep intelligence platform for meetings, lectures, workshops, interviews, and presentations with structured executive summaries, timestamped topics, action items, high-yield flashcards, and calendar scheduling.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
